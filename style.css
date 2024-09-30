@@ -1,0 +1,16 @@
+h2{
+    text-align: center;
+    color: beige;
+    background-color: darkgreen;
+}
+
+.flexysexy{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+body{
+    background-image: url('img/winter-snow.jpg');
+}
