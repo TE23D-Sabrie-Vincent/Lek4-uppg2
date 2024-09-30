@@ -4,7 +4,7 @@ h2{
     background-color: darkgreen;
 }
 
-.flexysexy{
+.flexysexy-klass{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
