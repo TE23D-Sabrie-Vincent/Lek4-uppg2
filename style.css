@@ -56,6 +56,46 @@ li{
     margin-right: 220px;
 }
 
-/* #gul-highlight{
-        
-} */
+#gul-highlight{
+    margin-right: 220px;
+    background-color: darkseagreen
+    
+}
+
+.kalender-container {
+    width: fit-content;
+    margin: 0 auto;
+    border: 5px solid black;
+    /* padding: 20px; */
+    background-color: white
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th {
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+td {
+    background-color: beige;
+}
+
+.helgdag {
+    background-color: beige;
+    color: red;
+}
+
+.veckodag {
+    background-color: pink;
+}
