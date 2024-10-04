@@ -107,7 +107,7 @@ td {
     height: 300px;
     margin: 20px auto;
     border: 5px solid black;
-    background-image: url('/img/fireworks_small.png'); /* Ersätt med din bildfil */
+    background-image: url('./img/fireworks_small.png'); /* Ersätt med din bildfil */
     background-size: cover;
     background-position: center;
     /* Klarr ypppiiii */
